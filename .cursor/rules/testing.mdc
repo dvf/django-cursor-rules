@@ -1,0 +1,9 @@
+---
+description: 
+globs: *.py
+alwaysApply: false
+---
+- All tests should be written using pytest and django-pytest.
+- We must use clean fixtures which are contained in various conftest.py files.
+- Avoid using class-based test suites. Function based are cleaner to read.
+- Tests should be run at appropriate milestones (tasks).

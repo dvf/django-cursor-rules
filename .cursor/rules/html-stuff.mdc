@@ -1,0 +1,6 @@
+---
+description: 
+globs: *.html
+alwaysApply: false
+---
+We use tailwind and htmx inside django templates.

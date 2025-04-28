@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- This project uses Python's `uv` package manager. Never use pip or poetry. You should use the modern uv syntax, for example, to install a package you use uv add <package_name>.
+- The project's tasks are tracked in docs/tasks.md
+- The readme should always be kept up to date.
